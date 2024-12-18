@@ -1,0 +1,1 @@
+java -Xms64M -Xmx64M  -jar ./target/plumplum-0.1.jar
